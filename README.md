@@ -16,7 +16,7 @@ React.js
 Getting Started
 
 Clone the repo:
-git clone git@github.com:NoroffFEU/portfolio-1-example.git
+git clone https://github.com/ils95/project-exam-2-holidaze
 
 Install the dependencies:
 npm install
